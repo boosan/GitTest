@@ -1,0 +1,9 @@
+
+git log
+
+
+git remote add origin https://github.com/try-git/try_git.git
+
+git push -u origin master
+
+git diff HEAD
